@@ -4,7 +4,7 @@ This is a hugo generated website (see https://gohugo.io/)
 
 This is the full hugo project containing raw markdown content
 
-### Initialisation
+## Initialisation
 
 Create 2 GitHub repositories, 1 for static assets (only the website's HTML and CSS) and one with the entire code and content
 
@@ -28,7 +28,7 @@ The ```public``` must not already exist to do this command
 
 -> The generated code will automatically be put in the ```.io``` repository
 
-### How to use
+## How to use
 
 To modify or add content to the website:
 
