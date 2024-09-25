@@ -1,0 +1,4 @@
+[submodule "website/public"]
+	path = website/public
+	url = https://github.com/hocnguyen12/hocnguyen12.github.io.git
+	branch = main
